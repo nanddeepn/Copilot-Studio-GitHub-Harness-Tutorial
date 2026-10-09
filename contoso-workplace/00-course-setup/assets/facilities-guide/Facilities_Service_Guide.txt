@@ -1,0 +1,23 @@
+Contoso Workplace Facilities Guide
+
+This fictional guide is course practice material. It is not an emergency plan, a building code, or a replacement for local facilities procedures.
+
+Reporting a routine workplace issue
+
+For a non-emergency facilities concern, contact the facilities team through the organization's approved service channel. Include the building, floor, room or area, a short description of what you observed, and when it began. Share a safe way for facilities staff to follow up if one is required by the official request form.
+
+Do not include access codes, passwords, personal health details, or other sensitive information in a routine issue summary. The Contoso Workplace Concierge in this course does not create a work order. It can prepare a summary for the facilities team.
+
+Lighting concerns
+
+For a flickering or failed light, note the room or area, whether one or multiple fixtures are affected, and whether the area is safe to enter. Do not open a fixture, handle wiring, or attempt electrical repair. If there is smoke, sparking, burning odor, or another immediate hazard, follow the site's emergency procedures and contact on-site staff or emergency services.
+
+Water concerns
+
+For a leak or standing water, report the building and exact location, when it was noticed, and whether nearby equipment or walkways are affected. Do not touch electrical equipment near water or attempt plumbing repairs. If there is an immediate safety hazard, follow the site's emergency procedures and contact on-site staff or emergency services.
+
+Shared meeting-room equipment
+
+The FacilitiesEquipment list is a fictional training catalog. Its Status field is the only source for whether a catalog item is marked Available or Reserved. Catalog status does not guarantee that an item is physically present or can be delivered by a particular time. For current confirmation, contact the facilities team.
+
+When requesting shared equipment, provide the equipment option selected from the catalog and the room or area and timing needed. The course workflow sends a notification to a test inbox only; it does not reserve equipment or create an official work order.
